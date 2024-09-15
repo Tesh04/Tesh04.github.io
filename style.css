@@ -7,7 +7,7 @@ body {
 }
 
 body > header {
-    background-color: orange;
+    background-color: rgb(33, 180, 165);
     color: white;
 }
 article > header {
@@ -61,7 +61,7 @@ body > main article {
 
 body > footer {
     display: flex;
-    background-color: orange;
+    background-color: rgb(33, 180, 165);
 }
 
 #logo {
